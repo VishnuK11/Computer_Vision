@@ -30,4 +30,4 @@ This repository contains the concepts of Computer Vision from reading an image t
 17. Deep Learning Face Recognition
     - [Simpsons Character Dataset](https://github.com/VishnuK11/Computer_Vision/blob/main/17%20Simpson-Character-Dataset.ipynb)
     
-    Used the simpsons character dataset to train images using transfer learning from a model build upon an inception architecture. A subset of 8 classes and their corresponding data was used. The model was pretrained on the FaceNet database. 3 Additional dense layers that were added were trained on the dataset. The model performed with an accuracy of 86% on seen data and 83% on the test data.  
+    Used the simpsons character dataset to train images using transfer learning from a model build upon an inception architecture. A subset of 8 classes and their corresponding 13000 images were used. The model was pretrained on the FaceNet database. Three additional dense layers were added and were trained on the dataset. The model was trained for 10 Epochs. The model performed with an accuracy of 86% on seen data and 83% on the test data.
