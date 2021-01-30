@@ -12,7 +12,7 @@ This repository contains the concepts of Computer Vision from reading an image t
 7. [Color Spaces](https://github.com/VishnuK11/Computer_Vision/blob/main/7%20Color%20Spaces.py)
 8. [Color Channels](https://github.com/VishnuK11/Computer_Vision/blob/main/8%20Color%20Channels.py)
 9. [Blurring](https://github.com/VishnuK11/Computer_Vision/blob/main/9%20Blurring.py)
-10.[BitWise Operations](https://github.com/VishnuK11/Computer_Vision/blob/main/10%20Bitwise.py)
+10. [BitWise Operations](https://github.com/VishnuK11/Computer_Vision/blob/main/10%20Bitwise.py)
 11. [Masking](https://github.com/VishnuK11/Computer_Vision/blob/main/11%20Masking.py)
 12. [Histogram](https://github.com/VishnuK11/Computer_Vision/blob/main/12%20Histogram.py)
 13. [Threshold](https://github.com/VishnuK11/Computer_Vision/blob/main/13%20Threshold.py)
@@ -27,4 +27,5 @@ This repository contains the concepts of Computer Vision from reading an image t
 # Face Recognition using Deep Learning
 17. Deep Learning Face Recognition
     - [Simpsons Character Dataset](https://github.com/VishnuK11/Computer_Vision/blob/main/17%20Simpson-Character-Dataset.ipynb)
+    
     Used the simpsons character dataset to train images using transfer learning from a model build upon an inception architecture. The model was pretrained on the FaceNet database. 3 Additional dense layers that were added were trained on the dataset. The model performed with an accuracy of 86% on seen data and 83% on the test data.  
