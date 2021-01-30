@@ -4,7 +4,7 @@ This repository contains the concepts of Computer Vision from reading an image t
 # Intro to Computer Vision and OpenCV
 
 1. [Read and Write](https://github.com/VishnuK11/Computer_Vision/blob/main/1%20Read%20Write.py)
-2. [Resize] (https://github.com/VishnuK11/Computer_Vision/blob/main/2%20Resize.py)
+2. [Resize](https://github.com/VishnuK11/Computer_Vision/blob/main/2%20Resize.py)
 3. [Draw Shape](https://github.com/VishnuK11/Computer_Vision/blob/main/3%20DrawShape.py)
 4. [Key Functions](https://github.com/VishnuK11/Computer_Vision/blob/main/4%20KeyFunctions.py)
 5. [Transform](https://github.com/VishnuK11/Computer_Vision/blob/main/5%20Transform.py)
@@ -21,9 +21,10 @@ This repository contains the concepts of Computer Vision from reading an image t
 
 # Detecting Faces in OpenCV
 16. Face Recognition
-    - 16. [Face Train](https://github.com/VishnuK11/Computer_Vision/blob/main/16%20Face%20Train.py)
-    - 16. [Face Recognition](https://github.com/VishnuK11/Computer_Vision/blob/main/16%20Face%20Recognition.py)
+    -  [Face Train](https://github.com/VishnuK11/Computer_Vision/blob/main/16%20Face%20Train.py)
+    -  [Face Recognition](https://github.com/VishnuK11/Computer_Vision/blob/main/16%20Face%20Recognition.py)
 
 # Face Recognition using Deep Learning
 17. Deep Learning Face Recognition
     - [Simpsons Character Dataset](https://github.com/VishnuK11/Computer_Vision/blob/main/17%20Simpson-Character-Dataset.ipynb)
+    Used the simpsons character dataset to train images using transfer learning from a model build upon an inception architecture. The model was pretrained on the FaceNet database. 3 Additional dense layers that were added were trained on the dataset. The model performed with an accuracy of 86% on seen data and 83% on the test data.  
