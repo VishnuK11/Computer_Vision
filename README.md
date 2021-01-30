@@ -23,6 +23,8 @@ This repository contains the concepts of Computer Vision from reading an image t
 16. Face Recognition
     -  [Face Train](https://github.com/VishnuK11/Computer_Vision/blob/main/16%20Face%20Train.py)
     -  [Face Recognition](https://github.com/VishnuK11/Computer_Vision/blob/main/16%20Face%20Recognition.py)
+    
+    HAAR Cascade was used to detect faces and locate regions of interest (ROIs). These ROIs were trained using the FaceRecognizer function of the OpenCv module for 7 classes/persons. The model performed with an accuracy of 100% on seen data and 28% on unseen data. 
 
 # Face Recognition using Deep Learning
 17. Deep Learning Face Recognition
